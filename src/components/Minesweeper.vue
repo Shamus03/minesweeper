@@ -265,9 +265,7 @@ export default {
   display: inline-block;
   width: 16px;
   height: 16px;
-  /* border-style: solid; */
-  /* border-width: 1px; */
-  background: url("/static/minesweeper.png") no-repeat;
+  background: url("../assets/img/minesweeper.png") no-repeat;
   background-position: 0 -39px;
 
   -moz-user-select: none;
