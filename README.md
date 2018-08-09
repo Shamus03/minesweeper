@@ -1,6 +1,8 @@
 # minesweeper
 
-> A Vue.js project
+> Minesweeper in Vue.js
+
+Styles/images taken from somewhere else, everything else written from scratch.
 
 ## Build Setup
 
